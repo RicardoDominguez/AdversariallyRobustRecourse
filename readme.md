@@ -1,7 +1,7 @@
 # Adversarially Robust Recourse
 
 This repository provides the code necessary to reproduce the experiments of the paper
-["On the Adversarial Robustness of Causal Algorithmic Recourse"](/home/ricardo/Desktop/myrec2/data_utils.py).
+["On the Adversarial Robustness of Causal Algorithmic Recourse"](https://arxiv.org/abs/2112.11313).
 
 ## Prequisites
 
